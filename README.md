@@ -49,3 +49,4 @@ for (i = 0; i < pathArray.length; i++) {
   newPathname += pathArray[i];
 }
 ```
+**[Link to code snippet](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/)**
