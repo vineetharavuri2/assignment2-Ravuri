@@ -33,7 +33,7 @@ India is one of the most visiting country to visitors.In india hyderabad has man
  ---
  # quotes
  > The purpose of our lives is to be happy
- >> Dalai lama
- 
+ >> _Dalai lama_
+
  > Not in doing what you like,but in liking what you do is  the secret of happiness
- >>J.M Barrie
+ >>_J.M Barrie_
