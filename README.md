@@ -37,3 +37,15 @@ India is one of the most visiting country to visitors.In india hyderabad has man
 
  > Not in doing what you like,but in liking what you do is  the secret of happiness
  >>_J.M Barrie_
+
+ ---
+ # Fencing
+ > JavaScript - Get Portion of URL Path
+ >> https://stackoverflow.com/questions/6944744/javascript-get-portion-of-url-path
+ ```
+ var newPathname = "";
+for (i = 0; i < pathArray.length; i++) {
+  newPathname += "/";
+  newPathname += pathArray[i];
+}
+```
