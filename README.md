@@ -17,3 +17,16 @@ Rajiv gandhi international airport
 * Chowmahalla Palace
 
 **[Link to AboutMe](aboutme.md)**
+
+----
+# cities which i recommend to visit
+
+India is one of the most visiting country to visitors.In india hyderabad has many historical palces like charminar,tankband,zoo park.
+
+| Name of the City | Important Location | Amount of time spent |
+--- | --- | ---|
+| HYderabad | NTR Gardens | 4hours |
+|Bangalore | Lal Bagh Gardens | 5hours |
+| Vizag | RK Beach | 6hours |
+| Tirupathi | Venkateswara swamy temple | 10hours |
+ 
