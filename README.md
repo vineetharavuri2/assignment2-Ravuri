@@ -30,3 +30,10 @@ India is one of the most visiting country to visitors.In india hyderabad has man
 | Vizag | RK Beach | 6hours |
 | Tirupathi | Venkateswara swamy temple | 10hours |
  
+ ---
+ # quotes
+ > The purpose of our lives is to be happy
+ >> Dalai lama
+ 
+ > Not in doing what you like,but in liking what you do is  the secret of happiness
+ >>J.M Barrie
